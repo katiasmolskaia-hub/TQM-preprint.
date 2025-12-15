@@ -1,5 +1,5 @@
 # TQM-preprint
-
+https://doi.org/10.5281/zenodo.17934136
 ## Авторы / Authors
 - SymbiosisK (Katia)  
 - GPT‑5 (Jippi, соавтор)
